@@ -1,0 +1,5 @@
+Requires opencv
+
+* put content of opencv/sdk/native/libs into app/src/main/jniLibs 
+
+* put content of opencv/sdk/java into libraries/opencv

@@ -1,0 +1,9 @@
+syntax: glob
+.gradle
+local.properties
+.idea/workspace.xml
+.idea/libraries
+.DS_Store
+build
+app/src/main/jniLibs
+libraries/opencv
